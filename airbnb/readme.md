@@ -1,3 +1,3 @@
-This contains data as well as R script containing analysis.
+* This contains data as well as R script containing analysis.
 
-Utilized random forest model predict prices. 
+* Utilized random forest model predict prices. 
